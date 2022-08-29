@@ -1,4 +1,4 @@
-# Yelp-app
+# Yelp-App
 
 **Project Link**: https://yelp-app-pern.herokuapp.com
 
