@@ -1,12 +1,12 @@
 # yelp-app
 
-Project Link: https://yelp-app-pern.herokuapp.com
+**Project Link**: https://yelp-app-pern.herokuapp.com
 
-Goal: Learn to build a simple full-stack application and deploy it on the internet.
+**Goal**: Learn to build a simple full-stack application and deploy it on the internet.
 
 This is a "code along" PERN stack project I did watching [this freeCodeCamp video](https://www.youtube.com/watch?v=ldYcgPKEZC8&t=1091s). It is a simple yelp-like application which allows the user to add restaurants and upload reviews to any restaurant. My motive was to watch and learn how a full stack application is build from the ground up and to learn the tips and tricks one should keep in mind while building and deploying such application. 
 
-# Tech Stack
+**Tech Stack**
 
 The Frontend is built using React and Bootstrap for the styling. The app wide state is managed using the Context api as Redux would be a bit overkill for this simple application. I've also used 'Font-awesome" for the icons. 
 
