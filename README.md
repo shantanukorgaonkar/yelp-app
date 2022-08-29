@@ -1,4 +1,4 @@
-# yelp-app
+# Yelp-app
 
 **Project Link**: https://yelp-app-pern.herokuapp.com
 
@@ -12,3 +12,4 @@ The Frontend is built using React and Bootstrap for the styling. The app wide st
 
 The Backend is built using Node js with Express.js for the server-side application and Postgresql as the database. The server exposes a few REST APIs to allow the user to fetch and upload restaurants and reviews. 
 
+**Deployment** : The app is deployed on Heroku as you probably guessed it from the project link.
